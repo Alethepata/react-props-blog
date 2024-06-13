@@ -59,6 +59,17 @@ header, main {
   text-transform: uppercase;
 }
 
+.tags-container{
+  padding-bottom:30px;
+}
+
+.tags-container ul{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+}
+
 footer{
   background-color: rgb(56, 55, 59);
   color: white;
